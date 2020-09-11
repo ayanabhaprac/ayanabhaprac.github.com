@@ -1,2 +1,2 @@
-# ayanabhaprac.github.com
+# ayanabhaprac.github.io
 My practice place
